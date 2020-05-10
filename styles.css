@@ -1,0 +1,12 @@
+#searchbar img {
+  margin: 2em;
+}
+
+#searchbar button, [type=text] {
+  margin: 0.5em;
+}
+
+nav ul li, footer ul li {
+  float: left;
+  margin: 0.5em;
+}
